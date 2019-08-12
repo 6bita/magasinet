@@ -9,7 +9,7 @@ description: "Peñarol en un entretenido partido hasta que se desvirtuó por las
 
 <br>
 
-<img src="https://i.imgur.com/DCxH7yy.png" style="max-width: 967px;" alt="Intermedio 2019: DFS vs PEÑ">
+<img src="https://i.imgur.com/DCxH7yy.png" class="responsive-image" style="max-width: 967px;" alt="Intermedio 2019: DFS vs PEÑ">
 
 <br>
 
@@ -24,5 +24,5 @@ N tenía todo en sus manos para acortar la ventaja ante un compromiso artamente 
 
 <br>
 
-<img src="https://i.imgur.com/zqWhEXR.jpg" style="max-width: 1000px;" alt="Estadio Franzini">
+<img src="https://i.imgur.com/zqWhEXR.jpg" class="responsive-image" style="max-width: 1000px;" alt="Estadio Franzini">
 
