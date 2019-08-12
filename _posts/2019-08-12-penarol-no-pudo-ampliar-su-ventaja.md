@@ -13,5 +13,5 @@ Ahora le tocó a Formiliano salir lesionado y vann ... Nos queda siempre la duda
 
 En resumen, Peñarol líder de su grupo a 2 de Cerro Largo y creemos que ahora que se viene el Clausura y la recta final, más con las incorporaciones de Darwin Nuñez y la del colombiano formado en Deportivo Pasto, jugador que observamos y creemos que su rapidez y habilidad le van a dar una mano a Peñarol, Peñarol sin tener partidos internacionales entre semana por ya no participar en las copas, irá apretando el acelerador para quedarse con el trieño y demostrar que es más plantel aún con las bajas que sufrió que éste mediocre equipo de N.
 
-N tenía todo en sus manos para acortar la ventaja ante un compromiso artamente difícil y de alto riesgo que tenía Peñarol en el Franzini pero no pasó del empate ante Boston River y nos sacamos aun difícil rival, DS de encima. Cómo rompen con que N es más plantel que nosotros! Mamita.
+N tenía todo en sus manos para acortar la ventaja ante un compromiso artamente difícil y de alto riesgo que tenía Peñarol en el Franzini pero no pasó del empate ante Boston River y nos sacamos aun difícil rival, DS de encima. Cómo rompen con que N es más plantel que nosotros! Mamita!!!
 
