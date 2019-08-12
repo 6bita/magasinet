@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Peñarol no pudo ampliar su ventaja y empató con DS en 2 tantos"
 name: "2019-08-12-penarol-no-pudo-ampliar-su-ventaja.md
 description: "Peñarol en un entretenido partido hasta que se desvirtuó por las rojas empató con DS en el Franzini 2-2"
