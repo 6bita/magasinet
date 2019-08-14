@@ -1,9 +1,7 @@
 title: La Revista
 author: 6bita
 email: s6.bita@gmail.com
-description: Dedicado al deporte del fútbol, cubrimos la información del Club 
-Atlético Peñarol y de la Selección Uruguaya de fútbol tanto de la mayor como de las juveniles.
-
+description: "Dedicado al deporte del fútbol, cubrimos la información del Club Atlético Peñarol y de la Selección Uruguaya de fútbol tanto de la mayor como de las juveniles."
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
