@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: Acerca de Nosotros
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Sitio dedicado al `Club Atlético Peñarol` y a la `Selección Uruguaya de Fútbol`. Proporcionamos links a todos los partidos tanto de `Peñarol` como los de la `Selección Uruguaya`, de la mayor y Sub-23, Sub-20, Sub-17 y Sub-15. Entendemos que las diferencias económicas deberían limarse en el `Club Atlético Peñarol` y la Institución debería unirse y repartir la ganancia en partes iguales entre todos sus hinchas.
