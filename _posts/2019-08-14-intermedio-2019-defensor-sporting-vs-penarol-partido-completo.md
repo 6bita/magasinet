@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intermedio 2019: Defensor Sporting vs Peñarol, partido completo"
+title: "Intermedio 2019 Fecha No 4: Defensor Sporting vs Peñarol, partido completo"
 name: "2019-08-14-intermedio-2019-defensor-sporting-vs-penarol-partido-completo.md"
 description: "El partido completo que en el Estadio Franzini disputaron los equipos de Defensor Sporting y Peñarol por la cuarta fecha del Torneo Intermedio 2019"
 ---
