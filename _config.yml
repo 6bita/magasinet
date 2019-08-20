@@ -38,18 +38,16 @@ minima:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
+  
+# Build settings
+theme: minima
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
-  
-# Build settings
-theme: minima
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
