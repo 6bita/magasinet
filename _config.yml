@@ -39,6 +39,14 @@ minima:
 #header_pages:
 # - about.md
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  
 # Build settings
 theme: minima
 
