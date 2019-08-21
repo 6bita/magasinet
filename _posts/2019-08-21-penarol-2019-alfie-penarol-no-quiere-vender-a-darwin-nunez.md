@@ -27,4 +27,7 @@ En referencia esto último a un posible porcentaje a favor de Peñarol ante una 
 
 <br>
 
-<iframe width="624" height="360" src="https://www.youtube.com/embed/EjM4BB20MII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="624" height="360" src="https://www.youtube.com/embed/EjM4BB20MII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
