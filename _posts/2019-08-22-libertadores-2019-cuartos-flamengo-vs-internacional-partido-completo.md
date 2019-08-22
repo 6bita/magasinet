@@ -15,7 +15,7 @@ El partido completo que en el Maracanã disputaron los equipos de Flamengo e Int
 <br>
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://embed.mystream.to/watch/1q1h568821x7" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+  <iframe class="embed-responsive-item" src="https://embed.mystream.to/1q1h568821x7" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
 
