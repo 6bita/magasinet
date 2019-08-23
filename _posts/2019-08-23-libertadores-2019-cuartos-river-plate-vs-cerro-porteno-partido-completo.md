@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Libertadores 2019 Cuartos: River Plate vs Cerro Porteño, partido completo"
-name: "2019-08-23-libertadores-2019-cuartos-river-plate-vs-cerro-porteno-partido-completo.md"
-description: "Partido completo por los cuartos de final de la Copa Libertadores 2019 entre River Plate y Cerro Porteño"
+title: "Libertadores 2019 Online: River Plate vs Cerro Porteño, partido completo"
+name: "2019-08-23-libertadores-2019-online-river-plate-vs-cerro-porteno-partido-completo.md"
+description: "Partido completo online por los cuartos de final de la Copa Libertadores 2019 entre River Plate y Cerro Porteño"
 link: https://mystream.to/watch/33y5ag1kuyep
 ---
 
-Partido completo por los `cuartos de final` de la `Copa Libertadores 2019` entre River Plate (Argentina) y Cerro Porteño (Paraguay).
+Partido completo por los `cuartos de final` de la `Copa Libertadores 2019` entre River Plate y Cerro Porteño.
 
 <br>
 
