@@ -20,4 +20,4 @@ El partido completo que en el Estadio Maracanã disputaron los equipos de Flumin
 
 <br>
 
-<a href="https://mystream.to/watch/99yt2sjp87ys"><span style="color: red;font-weight: 900;">Link Directo</a>
+<a href="https://mystream.to/watch/99yt2sjp87ys"><span style="color: red;font-weight: 900;">Link Directo</span></a>
